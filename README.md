@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyuson
 - 👀 I’m interested in tech, finance, and strategy
-- 🌱 I’m currently learning HTML, CSS, and JavaScript. 
+- 🌱 I’m currently learning Python Fundamentals, Data Structures, and Algos.
 - 💞️ I’m looking to collaborate on building cool stuff for SMEs. 
 - 📫 How to reach me ... here! or connect with me on LinkedIn
 
