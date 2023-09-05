@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @gyuson
-- 👀 I’m interested in tech, finance, and strategy
-- 🌱 Tech stack: HTML, CSS, JavaScript, Python and postgreSQL.
-- 💞️ I’m looking to collaborate on building cool stuff for SMEs. 
 - 📫 How to reach me ... here! or connect with me on <a href="https://www.linkedin.com/in/ghiayuson/">LinkedIn</a>.
 
 <!---
