@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @gyuson
 - Programming languages: Python, Dart
-- Web frameworks: Django, Flask (Python); Flutter (Dart)
+- Web frameworks: Django, Flask (Python)
 - Back-end Technologies: Django (Python)
 - Database Management: PostgreSQL, MongoDB
 - Mobile Development: Flutter
-- Content Management Systems (CMS): WordPress, Webflow
-- DevOps and Other Tools: Docker, Google Cloud
+- Content Management Systems (CMS): WordPress (customization), Webflow
+- DevOps and Other Tools: Docker, Google Cloud (Firestore, Compute Engine)
 - 📫 How to reach me ... here! or connect with me on <a href="https://www.linkedin.com/in/ghiayuson/">LinkedIn</a>.
 
 <!---
